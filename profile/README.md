@@ -1,12 +1,9 @@
-# Hi! 👋 Thanks for stopping by _[Solve it once](https://solveitonce.com/)_
+# Hi! 👋 Thanks for stopping by _[Equinox Residential](https://www.equinoxresidential.com/)_
 
-We're something of an _anti_-agency; our goal is to do work so good that you don't 
-need us anymore, by solving business problems in definitive ways.
+Equinox Residential is here to make sure you can rest easy in a home that is comfortable and beautiful.  
+We’re a full-service remodeling company based in Fort Collins, Colorado that can tackle projects of any 
+size and complexity. From kitchen and bathroom renovations to full structural remodels and additions.
 
-- [ ] Create main web properties in Drupal 10 with easily-configurable components
-- [ ] Quickly roll out landing pages and micro-sites with free hosting and open-source software
-- [ ] Migrate content to Drupal while leaving technical debt behind
-- [ ] Leverage templates, automation, and best practices to your processes
-- [ ] Identify and reform BS and pointless work-making wherever we find it
-
-![The Solve it once logo](https://solveitonce.com/assets/images/required/apple-touch-icon.png.webp)
+  * Remodels and Additions
+  * Renovation rescue
+  * DIY consultation
